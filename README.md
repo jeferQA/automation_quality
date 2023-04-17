@@ -1,1 +1,1 @@
-# automation_quality
+# starter_qa
